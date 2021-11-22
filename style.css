@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+}
+
+[class*="col-"]{
+    height: 30px; 
+    color: white;
+    font-size: 12px;
+    border: 1px solid white;
+    background-color: rgb(70, 127, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
