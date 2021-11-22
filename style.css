@@ -5,15 +5,33 @@
 }
 
 .row{
+    
 }
 
+
+
 [class*="col-"]{
-    height: 30px; 
+    min-height: 40px; 
     color: white;
-    font-size: 12px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 4px;
     border: 1px solid white;
     background-color: rgb(70, 127, 250);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  
 }
+
+.big{
+    height: 80px;
+}
+
+.green{
+    background-color: rgb(21, 196, 21);
+    border: 1px solid rgb(70, 127, 250);
+}
+
+.padding{
+    padding: 10px;
+   
+}
+

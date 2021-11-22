@@ -45,8 +45,10 @@
 }
 
 .top{
-    justify-content: top;
+    align-items: flex-start;
 }
+
+
 
 /* col-xs */
 .col-xs-1{
