@@ -1,0 +1,39 @@
+.container{
+    height: 800px;
+
+}
+.row{
+    min-height: 10%;
+    
+}
+
+.black{
+    background-color: black;
+}
+
+.red{
+   
+    background-color: red;
+}   
+
+.blue{
+    background-color: blue;
+    
+
+}
+
+.orange{
+   
+    background-color:orange;
+
+}
+
+.pink{
+    
+    background-color:pink;
+
+}
+
+
+
+
